@@ -12,8 +12,8 @@ public class IT26101506Lab6Q1{
 		int square;
 		double squareroot;
 		
-		square = number * number;
-		squareroot = Math.sqrt(number);
+		square=number * number;
+		squareroot=Math.sqrt(number);
 		
 		System.out.println("Squrae value of "+ number +" is "+square);
 		System.out.println("Square root value of "+ number +" is "+ squareroot);
